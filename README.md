@@ -1,1 +1,4 @@
 # SinglePerceptronForLogicPorts
+adsa
+zczxczx
+adsdads
